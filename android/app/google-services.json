@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "618579300801",
+    "firebase_url": "https://cyala2-c58a8.firebaseio.com",
+    "project_id": "cyala2-c58a8",
+    "storage_bucket": "cyala2-c58a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618579300801:android:39153c63cf50888df71f40",
+        "android_client_info": {
+          "package_name": "com.hrishi.cyala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618579300801-55gd7mst4g5s0avf66d0u45l78jn3mf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdhdEncJufOPGaUstpBxgYfKnaaDep2es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618579300801-55gd7mst4g5s0avf66d0u45l78jn3mf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
